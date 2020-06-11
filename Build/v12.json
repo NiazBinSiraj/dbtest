@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "GameJamTemplate",
-"dataUrl": "v7.data.unityweb",
-"wasmCodeUrl": "v7.wasm.code.unityweb",
-"wasmFrameworkUrl": "v7.wasm.framework.unityweb",
+"dataUrl": "v12.data.unityweb",
+"wasmCodeUrl": "v12.wasm.code.unityweb",
+"wasmFrameworkUrl": "v12.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
